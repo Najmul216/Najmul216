@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Najmul216
+- 👋 Hi, This is Najmul.
 - 👀 I Love Programming...
-- 🌱 I’m currently learning Javascript...Also I know JAVA & Android Development.
-- 💞️ I’m looking to be a Full-Stack Developer (Also MERN Stack).
+- 💞️ I’m a Full-Stack Software Developer (MERN Stack).
 - 📫 You Can Reach me via facebook & LinkedIn...
 
 <!---
