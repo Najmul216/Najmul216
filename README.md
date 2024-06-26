@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> This is Najmul</h1>
 
 <!--cover image-->
-<img src="https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/418947549_2689315997883583_3303630963592879426_n.png?stp=dst-png_p480x480&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3DrJ69HUTmsAX95gXme&_nc_ht=scontent.fcgp27-1.fna&cb_e2o_trans=q&oh=00_AfCdVU8F3o_PD3JPYFk4bD9mHZP0ZpfxWVZjAZ_0DQsb5w&oe=6608BE81" width="100%" />
+<img src="https://scontent.fdac144-1.fna.fbcdn.net/v/t39.30808-6/418947549_2689315997883583_3303630963592879426_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEehiz825sfSXdwF0cVyHPtzuHmKVJsR4XO4eYpUmxHhQZhYLsTc0Of_1cvN3tMazZyQPej1U74ySkwAcMqqU5W&_nc_ohc=_2fRH6z66OIQ7kNvgG6_75y&_nc_ht=scontent.fdac144-1.fna&cb_e2o_trans=q&oh=00_AYAe19T3mggVOW-ws99dJZ2uuj5VG9RWAGnBr45mI7nm4A&oe=6681D041" width="100%" />
 
 
 <div align="center">
