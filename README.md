@@ -52,7 +52,7 @@
 
 - 📫 You can reach me  `najmul.hasan0286@gmail.com`
 
-## <img src = "https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width = 6.5%> Connect with me
+## <img src = "https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width = 6.5%> You can connect with me via
 
 <div align="left">
   <a href="https://www.linkedin.com/in/najmul-hasan-chowdhury-9a83bb135/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="35" alt="linkedin logo"  /></a>
