@@ -66,7 +66,7 @@
 
 ###
 ---
-## <img src = "https://cdn.pixabay.com/animation/2023/01/02/07/30/07-30-26-279_512.gif" width = 6.5%> My favorite tools
+## <img src = "https://cdn.pixabay.com/animation/2023/01/02/07/30/07-30-26-279_512.gif" width = 6.5%> My skill set
 
 <!--hacking image-->
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
