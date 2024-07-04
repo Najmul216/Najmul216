@@ -12,7 +12,7 @@
 <p align="center"> 
   <div align="center">Visitors :</div>
   <div align="center">
-  <img src="https://profile-counter.glitch.me/najmulHasanChowdhury/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Najmul216/count.svg?"  />
   </div>
 </p>
 
