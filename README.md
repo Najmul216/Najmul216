@@ -118,14 +118,6 @@
 </br></br>
 ## 🐍 A Snake Eating My Contributions Graph
 
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Najmul216/Najmul216/output/github-contribution-grid-snake.gif">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Najmul216/Najmul216/output/github-contribution-grid-snake.gif">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Najmul216/Najmul216/output/github-contribution-grid-snake.gif">
-	</picture>
-</p>
-
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
