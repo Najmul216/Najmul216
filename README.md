@@ -44,7 +44,7 @@
 
 - 🔭 I’m currently working on an `Multi-vendor Ecommerce website`
 
-- :book: I’m currently Learning  `Reactjs` , `Nextjs` & `DSA`
+- :book: I’m currently Learning  `Phython` , `Nextjs` & `DSA`
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/najmulHasanChowdhury)
 
