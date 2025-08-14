@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> This is Najmul</h1>
 
 <!--cover image-->
-<img src="https://www.facebook.com/photo?fbid=3180600518755126&set=a.101831073298768" width="100%" />
+
 
 
 <div align="center">
