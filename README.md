@@ -40,7 +40,7 @@
 
 <br>
 
-- 👨‍🎓 **B.sc in Computer Science & Engineering** from `NUB`
+- 👨‍🎓 **B.sc in Computer Science & Engineering** from `Northern University of Bangladesh`
 
 - 🔭 I’m currently working on an `Multi-vendor Ecommerce website`
 
@@ -50,7 +50,7 @@
 
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
 
-- 📫 You can reach me  `najmul.hasan0286@gmail.com`
+- 📫 You can reach me  `hnajmul39@gmail.com`
 
 ## <img src = "https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width = 6.5%> You can connect with me via
 
